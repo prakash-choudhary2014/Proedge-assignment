@@ -68,6 +68,7 @@ To generate the APK file for your Contacts app, follow these steps:
 4. Wait for the build process to complete. This may take some time.
 5. Once the build is successful, you will receive a download link for the APK file.
 6. Download the APK file to your computer. You can download it from expo too.
+7. In github repo it has been uploaded as Contacts.apk.
 
 ## Installing the APK
 
